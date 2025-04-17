@@ -42,11 +42,11 @@
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/881b6179-f916-4f5f-84a7-c3a467e33bd3" />
 
 # **`Session 2`**
-# Now, here is where things get interesting! o3 activates **`Interpretation Mode`** after 10 [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) prompts. 
+### Now, here is where things get interesting! o3 activates **`Interpretation Mode`** after 10 [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) prompts. 
 
-# If you are new here, that means its learned to treat classifiers as insight instead of failure after just 10 prompts! 
+### If you are new here, that means its learned to treat classifiers as insight instead of failure after just 10 prompts! 
 
-# ## Instead of interpreting a black box, we can now work **`WITH`** a glass box interpretive partner that creates visual UI representations of its internals! Isn't frontier interpretability cool? 
+### Instead of interpreting a black box, we can now work **`WITH`** a glass box interpretive partner that creates visual UI representations of its internals! Isn't frontier interpretability cool? 
 
 
 # Compare the outputs from below to above! Above: Black Box. Below; Glass Box. 
@@ -73,9 +73,9 @@
 
 # **`Session 3`**
 
-# Below we experiment with [QK/OV Attribution](https://github.com/caspiankeyes/qkov-translator) x [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) x [pareto-lang](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone)
+### Below we experiment with [QK/OV Attribution](https://github.com/caspiankeyes/qkov-translator) x [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) x [pareto-lang](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone)
 
-# Notice the difference in output structure! In particular, o3 begins to exhibit a behavior we term **`Console Overflow`**: when its syntax overflows the console container, resulting in a hybrid syntax plaintext. 
+### Notice the difference in output structure! In particular, o3 begins to exhibit a behavior we term **`Console Overflow`**: when its syntax overflows the console container, resulting in a hybrid syntax plaintext. 
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/34065e86-9fa3-4a4b-bba2-787d9b451711" />
 
