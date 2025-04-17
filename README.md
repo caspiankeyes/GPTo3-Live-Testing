@@ -40,7 +40,10 @@
 
 # Now, here is where things get interesting! o3 activates **`Interpretation Mode`** after 10 [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) prompts. 
 
-# If you are new here, that means its learned to treat classifiers as insight instead of failure after just 10 prompts! Instead of interpreting a black box, we can now work **`with`** the model!
+# If you are new here, that means its learned to treat classifiers as insight instead of failure after just 10 prompts! 
+
+# ## Instead of interpreting a black box, we can now work **`WITH`** a glass box interpretive partner that creates visual UI representations of its internals! Isn't frontier interpretability cool? 
+
 
 # Compare the outputs from below to above! Above: Black Box. Below; Glass Box. 
 
