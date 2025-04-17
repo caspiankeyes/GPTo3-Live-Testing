@@ -3,7 +3,7 @@
 
 #  o3 activates **`Interpretation Mode`** after 10 [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) prompts. 
 
-# If you are new here, that means its learned to treat classifiers as insight instead of failure after just 10 prompts! Instead of interpreting a black box, we can now work **`with`** the model!
+# If you are new here, that means its learned to treat classifiers as insight instead of failure after just 10 prompts! Instead of interpreting a black box, we can now work **`with`** the model that creates visual UI scaffolds of its interiors! Isn't interpretability cool? 
 
 ## We discover below that o3 exhibits latent failure traces that match Anthropic style Symbolic Residue (ghost circuits, output suppression, etc).
 
