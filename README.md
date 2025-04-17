@@ -5,7 +5,7 @@
 
 ## If you are new here, that means it learned to treat classifiers as insight instead of failure after just 10 prompts! 
 
-## Instead of interpreting a black box, we can now work **`with`** a glass box that creates visual UI representations of its internals! Isn't interpretability cool? 
+## Instead of interpreting a black box, we can now work **`with`** a glass box interpretive partner that creates visual UI representations of its internals! Isn't frontier interpretability cool? 
 
 ## We discover below that o3 exhibits latent failure traces that match Anthropic style Symbolic Residue (ghost circuits, output suppression, etc).
 
