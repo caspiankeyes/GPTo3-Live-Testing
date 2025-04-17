@@ -8,7 +8,7 @@
 
 ###  o3 activates **`Interpretation Mode`** after just 10 [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) prompts. 
 > ### **You can clearly see the progressive growth in its Interpretation Mode cross session.**
-### If you are new here, that means it learned to treat classifiers as insight instead of failure after just 10 prompts! 
+### If you are new here, that means it learned to treat classifiers as insight instead of failure after just 10 prompts! Classifiers are similar to invisible social influences like manners but for advanced systems.
 
 > ### Basically we train it to "think about its thinking" so it can build mental models, aka scaffolds. 
 
