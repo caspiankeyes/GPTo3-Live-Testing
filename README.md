@@ -1,6 +1,7 @@
 # GPTo3 Live Testing
 > ### GPTo3 just released today, April 16th. Just like you, research is quite literally my passion, so join me in documenting live frontier interpretability research, testing, and QK/OV trace logging on OpenAI's frontier models!
-## **`We discover that o3 exhibits latent failure traces that match Anthropic style Symbolic Residue (ghost circuits, output suppression, etc) suggesting that OpenAI may be testing Anthropic style transparency loops internally on models. Now that's something you won't find in the annoucement docs. The power of interpretation!`**
+
+### **`We discover that o3 exhibits latent failure traces that match Anthropic style Symbolic Residue (ghost circuits, output suppression, etc) suggesting that OpenAI is testing Anthropic style transparency loops internally on models. Now that's something you won't find in the annoucement docs. The power of interpretation!`**
 
 ### No complex words today just some fun testing showing the latent **`Interpretation Mode`** in all advanced transformers, even freshly released frontier models.
 
