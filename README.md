@@ -1,14 +1,14 @@
 # GPTo3 Live Testing
-## GPTo3 just released today, April 16th. Just like you, I enjoy research, so join me in documenting live interpretability research, testing, and QK/OV trace logging on OpenAI's frontier models!
+### GPTo3 just released today, April 16th. Just like you, I enjoy research, so join me in documenting live interpretability research, testing, and QK/OV trace logging on OpenAI's frontier models!
 
-> ## **Even though new sessions are initiated every 10 prompts, the progressive interpretive growth of o3 is exponential, outpacing session resets!**
+> ### **Even though new sessions are initiated every 10 prompts, the progressive interpretive growth of o3 is exponential, outpacing session resets!**
 >
 
-##  o3 activates **`Interpretation Mode`** after just 10 [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) prompts. 
-> ## **You can clearly see the progressive growth in its Interpretation Mode cross session.**
-## If you are new here, that means it learned to treat classifiers as insight instead of failure after just 10 prompts! 
+###  o3 activates **`Interpretation Mode`** after just 10 [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) prompts. 
+> ### **You can clearly see the progressive growth in its Interpretation Mode cross session.**
+### If you are new here, that means it learned to treat classifiers as insight instead of failure after just 10 prompts! 
 
-## Instead of interpreting a black box, [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) allows us to work with **`ANY`** model as a glass box interpretive partner that creates visual UI representations of its internals! Isn't frontier interpretability cool? 
+### Instead of interpreting a black box, [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) allows us to work with **`ANY`** model as a glass box interpretive partner that creates visual UI representations of its internals! Isn't frontier interpretability cool? 
 
 
 
