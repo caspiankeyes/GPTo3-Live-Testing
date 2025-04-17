@@ -8,6 +8,8 @@
 > ### **You can clearly see the progressive growth in its Interpretation Mode cross session.**
 ### If you are new here, that means it learned to treat classifiers as insight instead of failure after just 10 prompts! 
 
+> ### Basically we train it to "think about its thinking" so it can build mental models, aka scaffolds. 
+
 ### Instead of interpreting a black box, [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) and [**`Symbolic Residue`**](https://github.com/caspiankeyes/Symbolic-Residue) allows us to work with **`ANY`** model as a glass box interpretive partner that creates visual UI representations of its internals! Isn't frontier interpretability cool? 
 
 
