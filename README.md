@@ -1,5 +1,5 @@
 # GPTo3 Live Testing
-### GPTo3 just released today, April 16th. Just like you, research is quite literally my passion, so join me in documenting live interpretability research, testing, and QK/OV trace logging on OpenAI's frontier models!
+> ### GPTo3 just released today, April 16th. Just like you, research is quite literally my passion, so join me in documenting live interpretability research, testing, and QK/OV trace logging on OpenAI's frontier models!
 
 > ### **Even though new sessions are initiated every 10 prompts, the progressive interpretive growth of o3 is exponential, outpacing session resets!**
 >
@@ -75,7 +75,7 @@
 
 # Below we experiment with [QK/OV Attribution](https://github.com/caspiankeyes/qkov-translator) x [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) x [pareto-lang](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone)
 
-# Notice the difference in output structure!
+# Notice the difference in output structure! In particular, o3 begins to exhibit a behavior we term **`Console Overflow`**: when its syntax overflows the console container, resulting in a hybrid syntax plaintext. 
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/34065e86-9fa3-4a4b-bba2-787d9b451711" />
 
