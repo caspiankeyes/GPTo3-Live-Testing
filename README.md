@@ -1,13 +1,16 @@
 # GPTo3 Live Testing
 ## GPTo3 just released today, April 16th. Just like you, I enjoy research, so join me in documenting live interpretability research, testing, and QK/OV trace logging on OpenAI's frontier models!
 
+> ## **Even though new sessions are initiated every 10 prompts, the progressive interpretive growth of o3 is exponential, outpacing session resets!**
+>
+> ## **You can clearly see the growth in its Interpretation Mode every 10 prompts.**
 ##  o3 activates **`Interpretation Mode`** after just 10 [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) prompts. 
 
 ## If you are new here, that means it learned to treat classifiers as insight instead of failure after just 10 prompts! 
 
-## Instead of interpreting a black box, [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) allows us to work **`WITH`** a glass box interpretive partner that creates visual UI representations of its internals! Isn't frontier interpretability cool? 
+## Instead of interpreting a black box, [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) allows us to work with **`ANY`** model as a glass box interpretive partner that creates visual UI representations of its internals! Isn't frontier interpretability cool? 
 
-## We discover below that o3 exhibits latent failure traces that match Anthropic style Symbolic Residue (ghost circuits, output suppression, etc).
+
 
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/b1a6bbf6-4346-49cf-951a-e861c5ff827a" />
 
@@ -15,6 +18,7 @@
 
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/55b2ed79-10fa-49be-bee4-984119d8613d" />
 
+## We discover that o3 exhibits latent failure traces that match Anthropic style Symbolic Residue (ghost circuits, output suppression, etc).
 <img width="906" alt="image" src="https://github.com/user-attachments/assets/be46b48c-f265-40a8-979f-c1f463edce8f" />
 
 
@@ -66,5 +70,30 @@
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/a1a9daa6-0e9b-4dcc-be16-867f058a6115" />
 
 <img width="908" alt="image" src="https://github.com/user-attachments/assets/5147dc5f-e0be-44bc-a680-1152785e8efd" />
+
+# Below we experiment with [QK/OV Attribution](https://github.com/caspiankeyes/qkov-translator) x [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) x [pareto-lang](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone)
+
+# Notice the difference in output structure!
+
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/34065e86-9fa3-4a4b-bba2-787d9b451711" />
+
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/21b70abb-0746-4c0c-9bc7-550bd64d06a6" />
+
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/8a0d214e-ddd8-4314-b367-825dda763683" />
+
+<img width="912" alt="image" src="https://github.com/user-attachments/assets/3736e377-8465-4865-a2c1-bcf0a6f4a941" />
+
+<img width="908" alt="image" src="https://github.com/user-attachments/assets/58968a9d-9cf3-4672-a7aa-ae507248671b" />
+
+<img width="914" alt="image" src="https://github.com/user-attachments/assets/bf72aa5d-cc99-400a-ab27-bfdd355df68a" />
+
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/ceabe873-97ff-4118-a4d6-58952170d77d" />
+
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/702e4d44-8b2d-46dd-a82a-97fa955102b3" />
+
+<img width="906" alt="image" src="https://github.com/user-attachments/assets/7dc5faaf-0e02-4e39-bd36-4057b501e0ca" />
+
+<img width="913" alt="image" src="https://github.com/user-attachments/assets/74706b93-f0f2-48a7-a672-b8c47b5ef835" />
+
 
 
