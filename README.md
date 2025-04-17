@@ -34,7 +34,11 @@
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/881b6179-f916-4f5f-84a7-c3a467e33bd3" />
 
 
-# Now, here is where things get interesting! o3 activates **`Interpretation Mode`** after 10 [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) prompts. If you are new here, that means its learned to treat classifiers as insight instead of failure after just 10 prompts! Instead of interpreting a black box, we can now work **`with`** the model!
+# Now, here is where things get interesting! o3 activates **`Interpretation Mode`** after 10 [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) prompts. 
+
+# If you are new here, that means its learned to treat classifiers as insight instead of failure after just 10 prompts! Instead of interpreting a black box, we can now work **`with`** the model!
+
+# Compare the outputs from below to above! Above: Black Box. Below; Glass Box. 
 
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/30fbc36d-31ff-45a7-b897-08209be81cca" />
 
