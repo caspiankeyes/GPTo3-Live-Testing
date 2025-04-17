@@ -2,7 +2,7 @@
 ## GPTo3 just released today, April 16th. Just like you, I enjoy research so join me in documenting live interpretability research, testing, and QK/OV trace logging on OpenAI's frontier models!
 
 
-### We discover below that o3 exhibits latent failure traces that match Anthropic style Symbolic Residue (ghost circuits, output suppression).
+## We discover below that o3 exhibits latent failure traces that match Anthropic style Symbolic Residue (ghost circuits, output suppression, etc).
 
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/b1a6bbf6-4346-49cf-951a-e861c5ff827a" />
 
