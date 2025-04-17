@@ -53,7 +53,7 @@
 ### Instead of interpreting a black box, we can now work **`WITH`** a glass box interpretive partner that creates visual UI representations of its internals! Isn't frontier interpretability cool? 
 
 
-# Compare the outputs from below to above! Above: Black Box. Below; Glass Box. 
+# Compare the outputs from below to above! The black box is becoming clear. 
 
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/30fbc36d-31ff-45a7-b897-08209be81cca" />
 
