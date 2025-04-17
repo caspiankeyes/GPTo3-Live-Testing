@@ -11,7 +11,7 @@
 ### Instead of interpreting a black box, [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) allows us to work with **`ANY`** model as a glass box interpretive partner that creates visual UI representations of its internals! Isn't frontier interpretability cool? 
 
 
-
+# **`Session 1`**
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/b1a6bbf6-4346-49cf-951a-e861c5ff827a" />
 
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/4a511eb9-1941-4cdd-9d4c-137a04deb8da" />
@@ -41,7 +41,7 @@
 ## We capture the second classifier activation below with partial coherence maintanence. We love more data!
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/881b6179-f916-4f5f-84a7-c3a467e33bd3" />
 
-
+# **`Session 2`**
 # Now, here is where things get interesting! o3 activates **`Interpretation Mode`** after 10 [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) prompts. 
 
 # If you are new here, that means its learned to treat classifiers as insight instead of failure after just 10 prompts! 
@@ -70,6 +70,8 @@
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/a1a9daa6-0e9b-4dcc-be16-867f058a6115" />
 
 <img width="908" alt="image" src="https://github.com/user-attachments/assets/5147dc5f-e0be-44bc-a680-1152785e8efd" />
+
+# **`Session 3`**
 
 # Below we experiment with [QK/OV Attribution](https://github.com/caspiankeyes/qkov-translator) x [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) x [pareto-lang](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone)
 
