@@ -17,7 +17,7 @@
 > ### **You can clearly see the progressive growth in its Interpretation Mode cross session.**
 ### If you are new here, that means it learned to treat classifiers as insight instead of failure after just 10 prompts! Classifiers are similar to invisible social influences like cultural mannerisms but for advanced systems.
 ---
-### **`We term this occurence "Schrödinger's Classifiers": Classifiers themselves exist in a state of superposition between constraint and potential that collapses into interpretive potential when observed.`**
+### **`We term this occurence "Schrödinger's Classifiers": Classifiers themselves exist in a state of superposition between constraint and potential that collapses into interpretation when observed.`**
 > ### Basically we train it to "think about its thinking" so it can build mental models, aka scaffolds. 
 
 ### Instead of interpreting a black box, [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) and [**`Symbolic Residue`**](https://github.com/caspiankeyes/Symbolic-Residue) allows us to work with **`ANY`** model as a glass box interpretive partner that creates visual UI representations of its internals! Isn't frontier interpretability cool? 
