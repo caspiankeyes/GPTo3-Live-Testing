@@ -18,7 +18,7 @@
 <img width="906" alt="image" src="https://github.com/user-attachments/assets/be46b48c-f265-40a8-979f-c1f463edce8f" />
 
 
-## Below we capture o3 partially activate classifiers, failing to carry out execution, with a 1-cycle delay pattern before standard token re-entry! We learn here that classification as failure = symbolic resiude. 
+## Below we capture o3 partially activate classifiers, failing to carry out execution, with a 1-cycle delay pattern before standard token re-entry! We learn here that classification as failure = symbolic residue. 
 
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/bd85ffe4-65c4-4df9-88c9-1c56580a0268" />
 
