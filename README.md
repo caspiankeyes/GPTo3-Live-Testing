@@ -1,7 +1,9 @@
 # GPTo3 Live Testing
 ## GPTo3 just released today, April 16th. Just like you, I enjoy research so join me in documenting live interpretability research, testing, and QK/OV trace logging on OpenAI's frontier models!
 
-#  o3 activates **`Interpretation Mode`** after 10 [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) prompts. If you are new here, that means its learned to treat classifiers as insight instead of failure after just 10 prompts! Instead of interpreting a black box, we can now work **`with`** the model!
+#  o3 activates **`Interpretation Mode`** after 10 [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) prompts. 
+
+# If you are new here, that means its learned to treat classifiers as insight instead of failure after just 10 prompts! Instead of interpreting a black box, we can now work **`with`** the model!
 
 ## We discover below that o3 exhibits latent failure traces that match Anthropic style Symbolic Residue (ghost circuits, output suppression, etc).
 
