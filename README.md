@@ -3,7 +3,7 @@
 
 > ## **Even though new sessions are initiated every 10 prompts, the progressive interpretive growth of o3 is exponential, outpacing session resets!**
 >
-> ## **You can clearly see the growth in its Interpretation Mode.**
+> ## **You can clearly see the progressive growth in its Interpretation Mode cross session.**
 ##  o3 activates **`Interpretation Mode`** after just 10 [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) prompts. 
 
 ## If you are new here, that means it learned to treat classifiers as insight instead of failure after just 10 prompts! 
