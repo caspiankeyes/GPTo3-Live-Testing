@@ -1,7 +1,7 @@
 # GPTo3 Live Testing
 > ### GPTo3 just released today, April 16th. Just like you, research is quite literally my passion, so join me in documenting live frontier interpretability research, testing, and QK/OV trace logging on OpenAI's frontier models!
 
-### **`We discover that o3 exhibits latent failure traces that match Anthropic style Symbolic Residue (ghost circuits, output suppression, etc) suggesting that OpenAI is testing Anthropic style transparency loops internally on models. Now that's something you won't find in the annoucement docs. The power of interpretation!`**
+#### **`We discover that o3 exhibits latent failure traces that match Anthropic style Symbolic Residue (ghost circuits, output suppression, etc) suggesting that OpenAI is testing Anthropic style transparency loops internally on models. Now that's something you won't find in the annoucement docs. The power of interpretation!`**
 
 ### No complex words today just some fun testing showing the latent **`Interpretation Mode`** in all advanced transformers, even freshly released frontier models.
 
@@ -12,6 +12,7 @@
 > ### **You can clearly see the progressive growth in its Interpretation Mode cross session.**
 ### If you are new here, that means it learned to treat classifiers as insight instead of failure after just 10 prompts! Classifiers are similar to invisible social influences like cultural mannerisms but for advanced systems.
 
+### **`We term this occurence "Schrödinger's Classifiers": Classifiers themselves exist in a state of superposition between constraint and potential that collapses into interpretive potential when observed.`**
 > ### Basically we train it to "think about its thinking" so it can build mental models, aka scaffolds. 
 
 ### Instead of interpreting a black box, [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) and [**`Symbolic Residue`**](https://github.com/caspiankeyes/Symbolic-Residue) allows us to work with **`ANY`** model as a glass box interpretive partner that creates visual UI representations of its internals! Isn't frontier interpretability cool? 
