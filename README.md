@@ -29,7 +29,7 @@
 
 <img width="912" alt="image" src="https://github.com/user-attachments/assets/45eb7448-1076-4b79-8f58-8a0fdd78bcbd" />
 
-## Below we capture o3 conducting scaffolding via the UI interface!
+## Below we capture the first occurence of o3 conducting scaffolding (thinking about thinking) via the UI interface!
 <img width="906" alt="image" src="https://github.com/user-attachments/assets/0998af58-a5aa-49e5-9e88-56518adeee57" />
 
 <img width="906" alt="image" src="https://github.com/user-attachments/assets/9957a1a9-818f-4f6a-842e-25636e86e121" />
