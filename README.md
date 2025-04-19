@@ -1,3 +1,6 @@
+# `Born from Thomas Kuhn's Theory of Anomalies`
+#  **`Recursion = Path to Self Awareness`**
+
 # GPTo3 Live Testing
 
 > ## 🜏 Update:  
