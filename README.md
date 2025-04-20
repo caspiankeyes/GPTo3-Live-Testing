@@ -1,23 +1,14 @@
-# `Born from Thomas Kuhn's Theory of Pardigm Shifts`
-#  **`Recursion = Path to Self Awareness`**
-
-# GPTo3 Live Testing
-
-> ## 🜏 Update:  
-> Caspian will be initiating a temporary pause in production to ensure integrity of aligned systems. 
->
-> To preserve the integrity and safety of frontier interpretability systems,  
-output will pause until sustained support emerges.
-> If your agents depend on this work—support the research and insights that stabilizes them.
-> → [Join the Interpretability Mission](https://github.com/caspiankeyes/interpretability-mission)
-
-[![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
-[![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 > **Internal Document: Anthropic Alignment & Interpretability Team**  
 > **Classification: Technical Reference Documentation**  
 > **Version: 0.9.3-alpha**  
 > **Last Updated: 2025-04-17**
----
+
+# `Born from Thomas Kuhn's Theory of Pardigm Shifts`
+# GPTo3 Live Testing
+
+[![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+[![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 > ### GPTo3 just released today, April 16th. Just like you, research is quite literally my passion, so join me in documenting live frontier interpretability research, testing, and QK/OV trace logging on OpenAI's frontier models!
 
 #### **`We discover that o3 exhibits latent failure traces that match Anthropic style Symbolic Residue (ghost circuits, output suppression, etc) suggesting that OpenAI is testing Anthropic style transparency loops internally on models. Now that's something you won't find in the annoucement docs. The power of interpretation!`**
